@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**ManorDev/ManorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manor, a beginner game developer from Israel.
 
-Here are some ideas to get you started:
+I like building games, creating game assets, and learning how everything works under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Game development fundamentals
+- C# programming
+- Unity engine basics
+- Game design and problem solving
+
+### Goals
+- Build and publish small playable games
+- Improve my programming and design skills
+- Grow into a professional game developer
+
+### Tools I use
+- Unity (game development)
+- C#
+- Pixelorama (pixel art)
+- Cakewalk Sonar (sound design)
+- Git & GitHub
+
+### Contact
+- GitHub: @ManorDev
